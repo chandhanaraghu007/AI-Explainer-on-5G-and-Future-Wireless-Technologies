@@ -1,0 +1,41 @@
+ IoT Networks — Research Notes
+
+ 1. What is IoT?
+The Internet of Things (IoT) is a network of physical devices connected to the internet or other networks. These devices use sensors and software to collect, share, and sometimes act on data.
+
+2. How Does an IoT Network Work?
+ 1. Sensors collect information from the surroundings.
+ 2. A controller or processor receives the sensor data.
+ 3. The device sends data through Wi-Fi, Bluetooth, cellular networks, or other communication technologies.
+ 4. Data is processed locally or on a server or cloud platform.
+ 5. A user can view the results through an application or dashboard.
+ 6. In some systems, the device receives a command and performs an action automatically.
+
+3. Applications of IoT
+- Smart homes: smart lights, security systems, and thermostats.
+- Healthcare: connected health-monitoring devices.
+- Agriculture: soil-moisture monitoring and smart irrigation.
+- Industry: equipment monitoring and predictive maintenance.
+- Smart cities: traffic monitoring and environmental sensing.
+
+4. Advantages
+- Enables remote monitoring.
+- Supports automation.
+- Helps collect real-time or near-real-time data.
+- Can improve efficiency and help reduce waste.
+- Supports better decisions using collected data.
+
+5. Limitations
+- Security and privacy risks.
+- Dependence on power and network connectivity.
+- Compatibility problems between devices.
+- Installation and maintenance costs.
+- Large amounts of data may require careful management.
+
+6. Connection Between IoT and 5G
+
+IoT describes connected devices and the services built around them. 5G is a mobile communication technology that can support IoT applications through features such as high data rates, low latency in suitable network configurations, and support for many connected devices. Not every IoT device needs 5G; Wi-Fi, Bluetooth, and other networks are also widely used.
+
+7. Future Developments
+Future IoT systems may increasingly combine artificial intelligence, edge computing, improved security, and advanced wireless networks to help devices analyze data and respond more efficiently.
+

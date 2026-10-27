@@ -1,0 +1,84 @@
+AI Prompt Library
+
+1. Research Prompt
+**AI Tool:** ChatGPT
+
+**Prompt:**
+Explain the Internet of Things (IoT) network in simple English. Describe how it works, its main components, applications, advantages, limitations, and connection with 5G technology. Use accurate technical information and suggest reliable sources for verification.
+
+**Purpose:** To understand the project topic and collect basic information.
+
+2. Second Research Prompt
+**AI Tool:** Google Gemini
+
+**Prompt:**
+Research IoT networks and their relationship with 5G technology. Explain the working process, real-world applications, benefits, challenges, and future developments. Organize the information under clear headings and suggest reliable sources.
+
+**Purpose:** To compare information from two AI tools.
+
+3. Research Summary Prompt
+**AI Tool:** ChatGPT
+
+**Prompt:**
+Convert the collected information about IoT networks and 5G into a short research summary. Use simple English, clear headings, and important technical points. Avoid unnecessary details.
+
+**Purpose:** To prepare the research report.
+
+4. Article Writing Prompt
+**AI Tool:** ChatGPT
+
+**Prompt:**
+Write an educational article about the Internet of Things, covering its definition, working, components, applications, advantages, limitations, connection with 5G, and future developments. Use clear headings, simple language, and reliable references.
+
+**Purpose:** To prepare the main project article.
+
+5. Social Media Content Prompt
+**AI Tool:** ChatGPT
+
+**Prompt:**
+Create five educational social media posts about IoT networks. Cover the introduction, working, applications, connection with 5G, and benefits and challenges. Make each post concise, informative, and easy to understand.
+
+**Purpose:** To convert research into social media content.
+
+6. Image Generation Prompt
+**AI Tool:** ChatGPT Image Generation
+
+**Prompt:**
+Create a clean educational infographic explaining an IoT network. Show sensors and smart devices sending data through a wireless network to an edge gateway or cloud platform, where the data is analyzed and useful alerts are generated. Use clear labels and a professional technology-themed design.
+
+**Purpose:** To create visual material for the project.
+
+7. Presentation Prompt
+**AI Tool:** ChatGPT
+
+**Prompt:**
+Prepare a seven-slide presentation about IoT networks and their connection with 5G. Include the definition, working, applications, advantages, challenges, 5G connection, and conclusion. Use short bullet points suitable for a student presentation.
+
+**Purpose:** To organize the project into presentation slides.
+
+8. Verification Prompt
+**AI Tool:** ChatGPT
+
+**Prompt:**
+Review the technical statements in my IoT article. Identify claims that need evidence, suggest reliable sources such as IETF, NIST, and ITU, and clearly separate verified information from claims that still require checking. Do not mark a claim as verified without supporting evidence.
+
+**Purpose:** To support fact-checking and reduce inaccurate AI-generated information.
+
+9. Automation Prompt
+**AI Tool:** ChatGPT
+
+**Prompt:**
+Convert an educational article about IoT networks into five short social media posts. Preserve the main facts, use simple language, avoid adding unsupported claims, and give each post a separate title.
+
+**Purpose:** To document the article-to-social-post workflow.
+
+10. Responsible AI Prompt
+**AI Tool:** ChatGPT
+
+**Prompt:**
+Identify possible limitations, privacy concerns, copyright issues, and inaccuracies when using AI to prepare an educational project about IoT. Suggest practical steps to use AI responsibly.
+
+**Purpose:** To understand the responsible use of AI in academic work.
+
+Conclusion
+This prompt library documents the prompts used or prepared for the IoT project. AI-generated information and content must be reviewed by a human and checked against reliable sources before submission.

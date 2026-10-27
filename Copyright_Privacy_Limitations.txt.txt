@@ -1,0 +1,40 @@
+Copyright, Privacy and AI Limitations
+
+1. Copyright Considerations
+
+- AI-generated text and images may have usage restrictions depending on the tool's terms and applicable laws.
+- Information and ideas taken from external sources should be properly acknowledged.
+- Images, diagrams, and text created by others should not be copied and presented as original work.
+- Before using AI-generated content publicly, check the relevant tool's terms and any applicable copyright requirements.
+- Sources used for technical information should be listed in the project references.
+
+2. Privacy Considerations
+
+- Personal information should not be entered into AI tools unless necessary and appropriately authorized.
+- Private documents, passwords, account details, and confidential information should not be shared with AI tools.
+- Only necessary project information should be provided in prompts.
+- AI tools' privacy policies and data-handling practices should be reviewed before use.
+
+3. Limitations of AI Tools
+
+- AI-generated answers can contain incorrect or outdated information.
+- AI tools may misunderstand technical questions or omit important details.
+- AI-generated images can contain incorrect labels, diagrams, or technical representations.
+- Different AI tools may produce different answers to the same question.
+- AI-generated content should not be treated as automatically correct.
+
+4. Steps Taken for Responsible AI Use
+
+- ChatGPT and Google Gemini were used to support research and content preparation.
+- Information was compared with reliable technical sources, including IETF, NIST, and ITU resources.
+- Claims that still require exact source confirmation are identified as unverified.
+- The article, social media posts, images, and presentation should receive a final human review before submission.
+- The project uses AI as an assistant rather than as a replacement for learning and independent verification.
+
+5. Ethical Use of AI
+
+AI tools should be used transparently and responsibly. Their contribution should be acknowledged when required by the institution or tool policy. Technical information must be checked, external sources must be credited, and private information must be protected.
+
+Conclusion
+
+AI tools can support research, writing, image generation, and presentation preparation. However, copyright, privacy, accuracy, and responsible use must be considered throughout the project.

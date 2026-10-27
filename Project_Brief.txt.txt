@@ -1,0 +1,28 @@
+# AI Capstone Project Brief
+
+**Project Title:** AI Explainer on 5G and Future Wireless Technologies
+
+**Selected Topic:** IoT Networks
+
+**Project Goal:** To understand how IoT networks work, their applications and advantages, and how IoT connects with 5G technology.
+
+**My Experience Level:** Beginner
+
+**Main Topics:**
+1. Introduction to IoT
+2. Working of an IoT network
+3. Applications of IoT
+4. Advantages and limitations of IoT
+5. Connection between IoT and 5G
+6. Future developments in IoT and wireless technology
+
+**Planned Deliverables:**
+- Research report
+- Article
+- Social media posts
+- Images or infographics
+- Presentation
+- Automation demonstration
+- Fact-verification report
+- Prompt documentation
+- AI output evaluation and responsible AI notes

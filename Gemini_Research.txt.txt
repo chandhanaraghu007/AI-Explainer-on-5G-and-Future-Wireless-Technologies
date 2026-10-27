@@ -1,0 +1,28 @@
+# IoT Networks — Gemini Research Notes
+
+1. IoT Architecture
+An IoT system commonly includes four parts:
+- **Perception layer:** Sensors and devices collect information.
+- **Network layer:** Transfers data between devices and other systems.
+- **Processing layer:** A server, cloud platform, or edge computer processes the data.
+- **Application layer:** Presents information to users and supports useful services.
+
+This is a simplified model; real IoT architectures can have different layers.
+
+2. Communication Technologies
+- **Wi-Fi:** Useful for devices that need local wireless connectivity and higher data rates.
+- **Bluetooth Low Energy (BLE):** Useful for short-range communication with low power consumption.
+- **Zigbee:** Used in some low-power smart-home and sensor networks.
+- **LoRaWAN:** Designed for low-power, long-range communication with relatively small amounts of data.
+- **Cellular networks, including 4G and 5G:** Useful when devices need mobile-network coverage.
+
+3. Examples of IoT Applications
+- Smart agriculture uses sensors to monitor soil and support irrigation decisions.
+- Industrial IoT monitors machinery and helps detect unusual operating conditions.
+- Healthcare devices can collect and transmit health measurements.
+- Smart-city systems can monitor traffic, air quality, and public infrastructure.
+- Smart-home devices can support lighting, security, and energy management.
+
+4. IoT and 5G
+
+IoT is the system of connected devices and applications. 5G is a wireless communication technology that can provide connectivity for some IoT systems.

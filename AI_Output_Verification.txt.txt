@@ -1,0 +1,32 @@
+ AI Output Verification Report
+
+1. Project Topic
+AI Explainer on IoT Networks and 5G
+
+2. AI Tools Used
+- ChatGPT: Assisted with research summaries, article writing, social media posts, and presentation content.
+- Google Gemini: Used to obtain a second AI-generated explanation of IoT.
+
+3. Verification Method
+The AI-generated information was compared with reliable technical sources, including:
+- Internet Engineering Task Force (IETF)
+- National Institute of Standards and Technology (NIST)
+- International Telecommunication Union (ITU)
+
+4. Points Checked
+- Meaning and basic working of IoT
+- Sensors, connectivity, and data processing
+- Applications of IoT
+- Advantages and limitations
+- Relationship between IoT and 5G
+
+5. Accuracy and Limitations
+AI-generated information is useful for learning, but it may contain incomplete or inaccurate statements. Technical claims should be checked against the relevant source before being marked as verified.
+
+The fact-verification notes identify some claims that still require exact confirmation from the source pages. These claims should remain unverified until checked.
+
+6. Human Review
+The article, social media posts, and presentation should be reviewed for technical accuracy, simple language, spelling, and consistency.
+
+7. Conclusion
+Using two AI tools and checking reliable technical sources supports a more responsible research process. Human verification remains necessary before publishing or presenting AI-generated content.

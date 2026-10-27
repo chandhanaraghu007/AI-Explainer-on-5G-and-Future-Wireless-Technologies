@@ -1,0 +1,29 @@
+ Automation Process — IoT Project
+
+1. Objective
+The objective is to demonstrate how AI-generated research content can be converted into social media posts.
+
+2. Input
+The input is the IoT article saved in `04_Article/IoT_Article.txt`.
+
+3. AI Tool Used
+ChatGPT and gemini was used to help prepare the IoT article and five social media posts.
+
+4. Process
+1. Prepare an article about IoT and its connection with 5G.
+2. Identify the main points from the article.
+3. Convert the main points into five short social media posts.
+4. Review each post for accuracy, clarity, and readability.
+5. Save the final posts in `05_Social_Posts/IoT_Social_Posts.txt`.
+
+5. Output
+The output is a text file containing five social media posts about IoT.
+
+6. Human Verification
+The posts should be checked against reliable sources before being published. AI-generated content may contain mistakes, so human review is necessary.
+
+7. Limitation
+The content was created with AI assistance and reviewed manually. This is a simple workflow demonstration, not a fully automated software system.
+
+Conclusion
+This workflow shows how AI can help repurpose an article into social media content while keeping human verification as an important step.

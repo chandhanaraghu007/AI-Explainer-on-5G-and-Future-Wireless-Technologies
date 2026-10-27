@@ -1,0 +1,61 @@
+IoT Fact Verification Report
+
+1. Project Topic
+AI Explainer on IoT Networks and 5G
+
+2. Reliable Sources Checked
+
+Source 1: IETF – Internet of Things
+URL: https://www.ietf.org/technologies/iot/
+
+**Claim checked:** IoT connects physical objects equipped with sensors, software, and connectivity so they can exchange data.
+
+**Result:** Supported. The IETF overview describes IoT as connected physical objects that exchange data and identifies communication and security as important aspects of IoT.
+
+**Status:** Verified against the source.
+
+Source 2: NIST – Internet of Things
+URL: https://www.nist.gov/internet-things-iot
+
+**Claim checked:** IoT creates useful connected systems, but privacy, security, authenticity, and reliability are important concerns.
+
+**Result:** Supported. NIST discusses the importance of trustworthy connected devices and networks, including privacy and security.
+
+**Status:** Verified against the source.
+
+Source 3: ITU – Overview of the Internet of Things
+URL: https://www.itu.int/rec/t-rec-y.2060/en
+
+**Claim checked:** ITU has published a technical recommendation providing an overview of IoT.
+
+**Result:** Supported. The ITU page identifies Recommendation Y.2060, subsequently renumbered as Y.4000, as an overview of the Internet of Things.
+
+**Status:** Verified against the source for the existence and title of the recommendation. Specific technical claims should be checked against the full recommendation.
+
+Source 4: ITU – 5G Overview
+URL: https://www.itu.int/en/mediacentre/backgrounders/Pages/5G-fifth-generation-of-mobile-technologies.aspx
+
+**Claim checked:** 5G can support IoT applications requiring capabilities such as high data rates, low latency, or connectivity for many devices.
+
+**Result:** This is a plausible technical claim, but the exact wording should be compared with the ITU page before marking it verified.
+
+**Status:** Requires final confirmation from the source page.
+
+3. Additional Technical Checks
+
+- IoT devices can use different communication technologies depending on the application.
+- Not every IoT device requires 5G.
+- Security and privacy protections are important when designing connected systems.
+- AI-generated explanations may contain errors and should be checked against reliable references.
+
+These are general technical statements. They should be supported by appropriate references if used as formal claims in the final article.
+
+4. Verification Limitations
+
+Opening a source page does not automatically verify every claim in the article. Only statements directly supported by the source should be marked as verified. Claims that have not been checked against the relevant source text remain unverified.
+
+5. Conclusion
+
+The IETF and NIST sources support the basic IoT definition and the importance of security and privacy. The ITU source confirms the existence of an official IoT overview recommendation. The specific 5G claims must be checked against the relevant ITU source before final submission.
+
+AI-generated content was used to support research and writing, but human review and source checking remain necessary.

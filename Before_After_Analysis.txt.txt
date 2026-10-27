@@ -1,0 +1,48 @@
+Before-and-After Analysis
+
+1. Project Topic
+AI Explainer on IoT Networks and 5G
+
+2. Before Using AI Tools
+
+Before using AI tools, the project required manual effort to understand IoT networks, organize technical information, prepare an article, create social media posts, and design a presentation.
+
+- Information had to be collected and organized separately.
+- Technical concepts such as IoT communication and 5G connectivity needed additional explanation.
+- Creating multiple types of project content required more time.
+- Checking the accuracy of technical claims was necessary.
+
+3. After Using AI Tools
+
+AI tools helped prepare and organize different parts of the project.
+
+- ChatGPT helped explain IoT concepts and prepare research summaries, an article, and social media posts.
+- Google Gemini provided a second AI-generated research perspective.
+- AI image generation helped create educational visuals.
+- AI-assisted content preparation helped organize the presentation.
+- AI prompts helped plan the verification and article-to-social-post workflow.
+
+4. Comparison
+
+| Aspect | Before AI Assistance | After AI Assistance |
+|---|---|---|
+| Research | More manual effort | Faster initial information gathering |
+| Understanding | Required individual study | Simple explanations supported learning |
+| Article writing | Needed manual planning and drafting | AI-assisted drafting and organization |
+| Social media posts | Needed separate preparation | Generated from the main topic |
+| Visual content | Required separate design work | AI-assisted image creation |
+| Verification | Needed source-by-source checking | Verification checklist helped organize checks |
+
+5. Improvements Observed
+
+AI tools helped save preparation time, organize information, generate ideas, and produce different content formats from the same topic.
+
+6. Limitations Observed
+
+AI-generated information may contain errors, incomplete explanations, or unsupported claims. Generated images may also contain incorrect labels or technical details. Reliable sources and human review are therefore necessary.
+
+7. Conclusion
+
+AI tools improved the speed and organization of this project. However, AI did not replace human understanding, source verification, or final review. The project combines AI assistance with human checking.
+
+**Note:** This analysis describes the expected and observed workflow qualitatively. No exact time savings or accuracy improvements were measured.

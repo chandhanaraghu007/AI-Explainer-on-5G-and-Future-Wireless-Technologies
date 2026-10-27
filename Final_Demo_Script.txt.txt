@@ -1,0 +1,50 @@
+Final Demo Script
+Project: AI Explainer on IoT Networks and 5G
+
+1. Introduction
+
+Good morning. My project title is "AI Explainer on IoT Networks and 5G." The aim of this project is to understand IoT networks and use AI tools to explain the topic through different types of educational content.
+
+2. Research Using AI Tools
+
+First, I used ChatGPT to understand IoT, its working, applications, advantages, limitations, and connection with 5G. I also used Google Gemini to obtain a second research perspective. I organized the collected information into a research summary.
+
+**Demo action:** Open `02_Research_Sources` and show the research files.
+
+3. Research Report and Article
+
+Next, I prepared a research summary and a detailed article explaining the IoT network, its components, applications, and connection with 5G. I used simple language to make the technical concepts easier to understand.
+
+**Demo action:** Open `03_Research_Report` and then `04_Article`. Briefly show the headings in each file.
+
+4. Social Media Posts and Images
+
+I converted the main topic into five educational social media posts. I also created four AI-generated images to explain IoT working, applications, its connection with 5G, and its benefits and challenges.
+
+**Demo action:** Open `05_Social_Posts` and `06_Images`. Show the five posts and the four images.
+
+5. Presentation
+
+I prepared a seven-slide PowerPoint presentation covering the definition of IoT, its working, applications, connection with 5G, advantages, challenges, and conclusion.
+
+**Demo action:** Open `07_Presentation/IoT_and_5G_Presentation.pptx` and show the slides.
+
+6. Automation Workflow
+
+I documented a workflow for converting an educational article into five social media posts with AI assistance. The workflow includes generating content, reviewing the output, and checking that the posts preserve the main facts.
+
+**Demo action:** Open `08_Automation_and_Verification/Automation_Process.txt`.
+
+**Important:** This is an AI-assisted workflow documented for the project. Do not describe it as a fully automatic software system unless a working automation has actually been implemented and tested.
+
+7. Verification and Responsible AI
+
+I prepared an AI output verification report, a fact-verification report, a prompt library, and a before-and-after analysis. I also documented copyright, privacy, and AI limitations. These steps help explain why AI-generated information needs human review and reliable sources.
+
+**Demo action:** Open the relevant files inside `08_Automation_and_Verification`.
+
+8. Conclusion
+
+Through this project, I learned how AI tools can support research, summarization, article writing, social media content creation, image generation, and presentation preparation. I also learned that AI-generated content must be checked for accuracy, privacy, and responsible use.
+
+Thank you.
